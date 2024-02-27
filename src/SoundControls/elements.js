@@ -1,0 +1,5 @@
+export const soundControls = document.getElementById('sound-controls')
+export const forestSound = document.getElementById('forest-sound')
+export const rainSound = document.getElementById('rain-sound')
+export const coffeShopSound = document.getElementById('coffe-shop-sound')
+export const campFireSound = document.getElementById('camp-fire-sound')
