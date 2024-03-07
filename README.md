@@ -9,13 +9,15 @@
  <br />
 
    <div align="center">
-      <b><a href="https://yurifabiosanches.github.io/Focus-Timer-v2" target="_blank">https://yurifabiosanches.github.io/Focus-Timer-v2</a></b>
+      <b><a href="https://yurifabiosanches.github.io/focus-timer-v2/" target="_blank">See my app in function</a></b>
    </div>
    
  <br />
- 
-https://github.com/YuriFabioSanches/Focus-Timer-v2/assets/58032581/326fbf13-1726-462e-962d-a8f8fa528e10
 
+<h1 align="center">
+    <img alt="Gif of the finished project FocusTimer v2" title="gif" src="./assets/preview.gif" />
+</h1>
+ 
  <br />
  
    The following tools were used in the construction of the project:
